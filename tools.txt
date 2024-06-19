@@ -1,0 +1,6 @@
+sdlc lifecycle is good using the devops and agile approach 
+linux is open source
+scripting is automation
+git is a dvcs
+aws is a cloud computing provider
+ec2 virtual servers in the cloud
